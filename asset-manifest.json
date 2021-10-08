@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CountryInfoApi/static/css/main.b30cd3ec.chunk.css",
+    "main.js": "/CountryInfoApi/static/js/main.728590dc.chunk.js",
+    "main.js.map": "/CountryInfoApi/static/js/main.728590dc.chunk.js.map",
+    "runtime-main.js": "/CountryInfoApi/static/js/runtime-main.f65f2fde.js",
+    "runtime-main.js.map": "/CountryInfoApi/static/js/runtime-main.f65f2fde.js.map",
+    "static/js/2.e103e8ea.chunk.js": "/CountryInfoApi/static/js/2.e103e8ea.chunk.js",
+    "static/js/2.e103e8ea.chunk.js.map": "/CountryInfoApi/static/js/2.e103e8ea.chunk.js.map",
+    "index.html": "/CountryInfoApi/index.html",
+    "static/css/main.b30cd3ec.chunk.css.map": "/CountryInfoApi/static/css/main.b30cd3ec.chunk.css.map",
+    "static/js/2.e103e8ea.chunk.js.LICENSE.txt": "/CountryInfoApi/static/js/2.e103e8ea.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/CountryInfoApi/static/media/Walpaper.1d8b9469.jpeg",
+    "static/media/errorImg.0d10f9b7.jpg": "/CountryInfoApi/static/media/errorImg.0d10f9b7.jpg",
+    "static/media/geoFlag.1bc9ceb0.svg": "/CountryInfoApi/static/media/geoFlag.1bc9ceb0.svg",
+    "static/media/search.e747e30a.png": "/CountryInfoApi/static/media/search.e747e30a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f65f2fde.js",
+    "static/js/2.e103e8ea.chunk.js",
+    "static/css/main.b30cd3ec.chunk.css",
+    "static/js/main.728590dc.chunk.js"
+  ]
+}
